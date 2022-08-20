@@ -1,11 +1,16 @@
 # numerical-tube-manifolds
-This a simple repository for the code that I developed for my bachelor thesis' project.
-My aim was to find the tube manifolds of periodic orbits through numerical methods, using as little math as possible. Some knowledge of linear algebra and dynamical systems should be enough to follow the example provided and understand the main concepts.
+In this repository you will find the code that I developed for my bachelor thesis' project.
+The aim of the work was to find the tube manifolds of periodic orbits of the *circular restricted three body problem* (CRTBP). 
+I wanted to use as little math as possible, therefore I rely heavily on numerical methods for my calculations.
+Some knowledge of linear algebra, dynamical systems and basic numerical methods (Newton's method) should be enough to follow the example provided and understand the main concepts.
 
-I'm aware that there are many other methods to find the tube manifolds, more elegant and efficient but also more mathematically complex. I wanted to build a methodology that would allow a STEM student of undergrate level (as was I when I first approached this topic) to calculate these complex trajectories.
+I'm aware that there are many other methods to find the tube manifolds, more elegant and efficient but also more mathematically complex. I wanted to build a methodology that would allow a STEM student of undergraduate level (as was I when I first approached this topic) to calculate these complex trajectories.
 
-My thanks go to professor Christos Efthymiopulous, who has patientelly thought me everything you see in this work.
 
-The functions are divided into two modules, one for the continuous Hamiltonian flow, the other for the discrete Poincaré map.
+There are:
+1. The final relation of my thesis, that you can use as reference. It is divided in three parts: one for the necessary theory, the other two explain in detail how to calculate the orbits of the *planar* and *spatial* problem.
+2. The code I've developed to do the calculations.
+3. A notebook with a simple example on the tube manifolds of a vertical Lyapunov orbit
 
-The text of my thesis is provided as reference and I've also included a simple example that shows the main ideas behind this work. 
+## Aknowledgments
+My thanks go to professor Christos Efthymiopoulos, who has patientelly thought me the quite complex math of tube manifolds and Hamiltonian dynamics, as well as some tricks in numerical computation.
