@@ -6,7 +6,6 @@ Some knowledge of linear algebra, dynamical systems and basic numerical methods 
 
 I'm aware that there are many other methods to find the tube manifolds, more elegant and efficient but also more mathematically complex. I wanted to build a methodology that would allow a STEM student of undergraduate level (as was I when I first approached this topic) to calculate these complex trajectories.
 
-Esempio
 
 There are:
 1. The final relation of my thesis, that you can use as reference. It is divided in three parts: one for the necessary theory, the other two explain in detail how to calculate the orbits of the *planar* and *spatial* problem.
