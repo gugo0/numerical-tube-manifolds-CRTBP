@@ -13,4 +13,4 @@ There are:
 3. A notebook with a simple example on the tube manifolds of a vertical Lyapunov orbit
 
 ## Aknowledgments
-My thanks go to professor Christos Efthymiopoulos, who has patientelly thought me the quite complex math of tube manifolds and Hamiltonian dynamics, as well as some tricks in numerical computation.
+My thanks go to professor Christos Efthymiopoulos, who has patientelly thought me the complex math of tube manifolds and Hamiltonian dynamics, as well as some tricks in numerical computation.
