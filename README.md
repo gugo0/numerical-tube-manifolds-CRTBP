@@ -6,11 +6,11 @@ Some knowledge of linear algebra, dynamical systems and basic numerical methods 
 
 I'm aware that there are many other methods to find the tube manifolds, more elegant and efficient but also more mathematically complex. I wanted to build a methodology that would allow a STEM student of undergraduate level (as was I when I first approached this topic) to calculate these complex trajectories.
 
+You can find the final report of my thesis [here](https://www.researchgate.net/publication/380514048_Numerical_calculation_of_manifolds_of_periodic_orbits_of_the_restricted_three_body_problem), which you can use as reference. It is divided into three parts: the necessary theory, the other two explain in detail how to calculate the orbits of the *planar* and *spatial* problem.
 
-There are:
-1. The final relation of my thesis, that you can use as reference. It is divided in three parts: one for the necessary theory, the other two explain in detail how to calculate the orbits of the *planar* and *spatial* problem.
-2. The code I've developed to do the calculations.
-3. A notebook with a simple example on the tube manifolds of a vertical Lyapunov orbit
+In the repository you can find:
+1. The code I've developed to do the calculations.
+2. A notebook with a simple example on the tube manifolds of a vertical Lyapunov orbit
 
 ## Aknowledgments
 My thanks go to professor Christos Efthymiopoulos, who has patientelly thought me the complex math of tube manifolds and Hamiltonian dynamics, as well as some tricks in numerical computation.
